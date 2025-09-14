@@ -184,7 +184,7 @@ do -- Load items
 
     Items.Name = "Items"
     Items.Parent = Folder
-    Items.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Items.BackgroundColor3 = Color3.fromRGB(74,10,121,255)
     Items.BackgroundTransparency = 1.000
     Items.Position = UDim2.new(0, 10, 0, 25)
     Items.Size = UDim2.new(1, -10, 1, -25)
@@ -377,7 +377,7 @@ do -- Load items
 
     Button.Name = "Button"
     Button.Parent = Switch
-    Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Button.BackgroundColor3 = Color3.fromRGB(74,10,121,255)
     Button.BackgroundTransparency = 1.000
     Button.BorderSizePixel = 0
     Button.Size = UDim2.new(0, 20, 0, 20)
@@ -440,7 +440,7 @@ do -- Load items
 
     Slider.Name = "Slider"
     Slider.Parent = Presets
-    Slider.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Slider.BackgroundColor3 = Color3.fromRGB(74,10,121,255)
     Slider.BackgroundTransparency = 1.000
     Slider.Size = UDim2.new(0, 150, 0, 20)
 
@@ -622,7 +622,7 @@ do -- Load items
 
     Button_3.Name = "Button"
     Button_3.Parent = ColorPicker
-    Button_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Button_3.BackgroundColor3 = Color3.fromRGB(74,10,121,255)
     Button_3.BackgroundTransparency = 1.000
     Button_3.BorderSizePixel = 0
     Button_3.Size = UDim2.new(0, 20, 0, 20)
